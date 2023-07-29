@@ -1,0 +1,88 @@
+header{
+    background-color:beige;
+    padding:10px;
+    color:black;
+}
+
+nav{
+    background-color:bisque ;
+    color:aqua;
+    margin-top:-25px;
+}
+
+li{
+    display:inline-block;
+    padding:10px;
+    font-family: Monaco;
+  
+}
+footer{
+    margin-top: 600px;
+    background-color: antiquewhite;
+    padding:10px;
+    font-size: larger;
+    color:black;
+    
+
+}
+
+h1{
+    font-family: Monaco;
+}
+
+#bknfleece{
+    width: 300px;
+}
+
+#wmnsshirt{
+    width: 300px;
+    margin-top:-20px;
+}
+#kidshoodie{
+    width:300px;
+    margin-top:-20px;
+}
+
+h3{
+    font-family: Monaco;
+    
+}
+
+body{
+    background-color:beige;
+
+}
+
+#af1{
+    width:90%;
+    height: 365px;
+    
+  
+
+}
+
+h4{
+    font-family: Monaco;
+    
+}
+#af1shoe{
+    padding-top:50px;
+}
+
+#mensshorts{
+    width:300px;
+    height: 365px;
+}
+#crewfleece{
+    width:300px;
+    height:400px;
+}
+
+div{
+    width:24%;
+    display:inline-block;
+}
+.mensstyle{
+    width:24%;
+    display:inline-block;
+}
